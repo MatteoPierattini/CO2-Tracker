@@ -15,7 +15,7 @@ This is a web application that allows users to calculate their personal CO2 dail
 - **HTML/CSS/JavaScript**: Frontend technologies for rendering the user interface and dashboard.
 - **SQLite**: Used to store user data and historical CO2 emission logs.
 - **Bootstrap**: For responsive and easy-to-use user interface components.
-- **Matplotlib/Plotly**: For visualizing the user's CO2 emission data.
+- **Chart.js**: For visualizing the user's CO2 emission data.
 
 ## Getting Started
 
