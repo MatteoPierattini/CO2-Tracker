@@ -40,7 +40,7 @@ cd yourrepository
 
 ### 2. Set Up a Virtual Environment
 
-It's a good practice to use a virtual environment for your Python projects. Set one up using the following commands:
+Set one up using the following commands:
 
 ```bash
 python3 -m venv venv
