@@ -72,7 +72,3 @@ The app will run locally at `http://127.0.0.1:5000/`. Open this URL in your web 
 3. **Set a Goal**: Set your monthly carbon footprint reduction goal.
 4. **Track Emissions**: Log your CO2 emissions from transportation, energy, and food consumption.
 5. **View Progress**: Check the dashboard to see your progress with data visualizations.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
